@@ -1,6 +1,6 @@
-package hakery.club.listener;
+package hakery.club.teriyaki.listener;
 
-import hakery.club.event.Event;
+import hakery.club.teriyaki.event.Event;
 
 public interface Listener {
 

@@ -1,4 +1,4 @@
-package hakery.club.event;
+package hakery.club.teriyaki.event;
 
 /**
  * This class means that the listed event, is the easiest event possible, without any other strings attached such as cancelled

@@ -1,7 +1,7 @@
-package hakery.club.event.impl;
+package hakery.club.teriyaki.event.impl;
 
-import hakery.club.event.CancellableEvent;
-import hakery.club.event.Event;
+import hakery.club.teriyaki.event.CancellableEvent;
+import hakery.club.teriyaki.event.Event;
 
 public class EventCancellable implements Event, CancellableEvent {
 

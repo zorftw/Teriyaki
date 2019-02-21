@@ -1,6 +1,6 @@
-package test.hakery.club.events;
+package test.hakery.club.main.events;
 
-import hakery.club.event.Event;
+import hakery.club.teriyaki.event.Event;
 
 /**
  * Test class to show any custom event

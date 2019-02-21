@@ -1,4 +1,4 @@
-package hakery.club.event;
+package hakery.club.teriyaki.event;
 
 /**
  * Interface class for all stoppable events

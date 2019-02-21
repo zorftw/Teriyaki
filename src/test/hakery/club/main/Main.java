@@ -1,9 +1,9 @@
-package test.hakery.club;
+package test.hakery.club.main;
 
-import hakery.club.Teriyaki;
-import hakery.club.event.Callable;
-import test.hakery.club.events.MyCancellableEvent;
-import test.hakery.club.events.MyCustomEvent;
+import hakery.club.teriyaki.Teriyaki;
+import hakery.club.teriyaki.event.Callable;
+import test.hakery.club.main.events.MyCancellableEvent;
+import test.hakery.club.main.events.MyCustomEvent;
 
 public class Main {
 

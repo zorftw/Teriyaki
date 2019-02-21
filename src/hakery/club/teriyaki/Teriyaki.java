@@ -1,8 +1,8 @@
-package hakery.club;
+package hakery.club.teriyaki;
 
-import hakery.club.event.Callable;
-import hakery.club.event.Event;
-import hakery.club.listener.Listener;
+import hakery.club.teriyaki.event.Callable;
+import hakery.club.teriyaki.event.Event;
+import hakery.club.teriyaki.listener.Listener;
 import javafx.util.Pair;
 
 import java.lang.reflect.Method;
